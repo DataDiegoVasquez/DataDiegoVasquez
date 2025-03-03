@@ -37,8 +37,6 @@ I'm a Data Engineer with over 4 years of experience in designing and implementin
 
 ###
 
-###
-
 <h3 align="left">👩‍💻  Sobre mi</h3>
 
 ###
@@ -49,7 +47,7 @@ Soy Ingeniero de Datos con más de 4 años de experiencia en el diseño e implem
 <br>- 📚 Estoy en constante aprendizaje sobre tecnologías en la nube, enfocándome actualmente en Databricks.
 <br>- ⚡ En mi tiempo libre, disfruto pasear a mi mascota, ir al gimnasio y explorar nuevas tecnologías.
 <br>- 🌱 Estoy interesado en contribuir y colaborar en proyectos de código abierto relacionados con el procesamiento y análisis de datos</p>
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
